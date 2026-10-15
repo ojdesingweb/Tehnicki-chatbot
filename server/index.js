@@ -264,6 +264,23 @@ app.get("/api/admin/unanswered", (req, res) => {
   res.json(list);
 });
 
+// ---------- debug: inspect retrieval without spending an AI call ----------
+// Lets us check which knowledge-base chunks a question retrieves (and with
+// what score) directly on the deployed server, to tell a retrieval problem
+// apart from an AI/model problem without burning a Groq request each time.
+app.get("/api/admin/search", (req, res) => {
+  if (req.query.secret !== ADMIN_SECRET) {
+    return res.status(401).json({ error: "Neovlašćeno." });
+  }
+  const q = req.query.q;
+  if (!q) return res.status(400).json({ error: "Dodaj ?q=pitanje u URL." });
+  const results = index.search(q, 6);
+  res.json({
+    query: q,
+    results: results.map((r) => ({ title: r.title, source: r.source, score: r.score })),
+  });
+});
+
 // Local-testing convenience: a bare demo page that loads the widget against
 // this same server. Not meant for production use — the client's real site
 // will load /widget/bot_widget.js on its own pages instead.
