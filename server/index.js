@@ -122,20 +122,37 @@ function isRateLimited(ip) {
   return entry.count > RATE_LIMIT_MAX;
 }
 
-// ---------- escalation log (unanswered / forwarded questions) ----------
+// ---------- logs: escalated-only (unanswered.json) and full conversation ----------
+// NOTE: on Render's free plan the filesystem is wiped on every redeploy and
+// every time the free instance spins down from inactivity, so these logs are
+// NOT permanent — they're good enough to review recent chats for quality,
+// but don't rely on them as a permanent record. A later upgrade (paid plan
+// with a persistent disk, or a small database) would fix that if needed.
 const DATA_DIR = path.join(__dirname, "data");
 const LOG_PATH = path.join(DATA_DIR, "unanswered.json");
+const CONV_LOG_PATH = path.join(DATA_DIR, "conversations.json");
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 if (!fs.existsSync(LOG_PATH)) fs.writeFileSync(LOG_PATH, "[]", "utf-8");
+if (!fs.existsSync(CONV_LOG_PATH)) fs.writeFileSync(CONV_LOG_PATH, "[]", "utf-8");
+
+function appendToLog(logPath, entry, cap) {
+  try {
+    const list = JSON.parse(fs.readFileSync(logPath, "utf-8"));
+    list.unshift({ ...entry, t: new Date().toISOString() });
+    fs.writeFileSync(logPath, JSON.stringify(list.slice(0, cap), null, 2), "utf-8");
+  } catch (e) {
+    console.error("Failed to write log:", logPath, e);
+  }
+}
 
 function logUnanswered(entry) {
-  try {
-    const list = JSON.parse(fs.readFileSync(LOG_PATH, "utf-8"));
-    list.unshift({ ...entry, t: new Date().toISOString() });
-    fs.writeFileSync(LOG_PATH, JSON.stringify(list.slice(0, 500), null, 2), "utf-8");
-  } catch (e) {
-    console.error("Failed to write escalation log:", e);
-  }
+  appendToLog(LOG_PATH, entry, 500);
+}
+
+// Every chat turn, confident or not, so the owner can review bot quality —
+// not just the ones the bot itself flagged as unsure.
+function logConversation(entry) {
+  appendToLog(CONV_LOG_PATH, entry, 1000);
 }
 
 const SYSTEM_PROMPT = `Ti si "Best Asistent", chat bot na sajtu firme Autocentar Best iz Kaluđerice (Srbija),
@@ -230,6 +247,13 @@ app.post("/api/chat", async (req, res) => {
       }
     }
 
+    logConversation({
+      question: message,
+      answer: parsed.answer,
+      confident: !!parsed.confident,
+      sourcesConsidered: contextChunks.map((c) => c.title),
+    });
+
     if (!parsed.confident) {
       logUnanswered({
         question: message,
@@ -262,6 +286,70 @@ app.get("/api/admin/unanswered", (req, res) => {
   }
   const list = JSON.parse(fs.readFileSync(LOG_PATH, "utf-8"));
   res.json(list);
+});
+
+// ---------- full conversation log (every question + answer, not just escalated) ----------
+app.get("/api/admin/conversations", (req, res) => {
+  if (req.query.secret !== ADMIN_SECRET) {
+    return res.status(401).json({ error: "Neovlašćeno." });
+  }
+  const list = JSON.parse(fs.readFileSync(CONV_LOG_PATH, "utf-8"));
+  res.json(list);
+});
+
+// ---------- human-readable admin page: browse every question + answer ----------
+app.get("/admin", (req, res) => {
+  if (req.query.secret !== ADMIN_SECRET) {
+    return res
+      .status(401)
+      .send(
+        "<p style='font-family:sans-serif'>Dodaj <code>?secret=TVOJ_ADMIN_SECRET</code> u URL.</p>"
+      );
+  }
+  res.send(`<!doctype html>
+<html lang="sr"><head><meta charset="utf-8" />
+<title>Best Asistent — razgovori</title>
+<style>
+  body { font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 24px 16px 60px; background:#f7f5f3; color:#17212b; }
+  h1 { font-size: 20px; }
+  .note { color:#5b6672; font-size: 13px; margin-bottom: 20px; }
+  .card { background:#fff; border:1px solid #e3dede; border-radius:12px; padding:14px 16px; margin-bottom:10px; }
+  .card.escalated { border-left: 4px solid #D3261C; }
+  .q { font-weight:700; margin-bottom:6px; }
+  .a { white-space: pre-wrap; margin-bottom:6px; }
+  .meta { font-size:12px; color:#5b6672; display:flex; gap:10px; flex-wrap:wrap; }
+  .tag { display:inline-block; font-size:11px; text-transform:uppercase; letter-spacing:.04em; font-weight:700; color:#D3261C; }
+  button { cursor:pointer; border:1px solid #e3dede; background:#fff; border-radius:8px; padding:8px 14px; font-size:14px; }
+  #empty { color:#5b6672; }
+</style>
+</head>
+<body>
+  <h1>Best Asistent — pregled razgovora</h1>
+  <p class="note">Prikazuje svako pitanje i odgovor bota (najnovije prvo). Crvena linija levo = bot nije bio siguran i prosledio pitanje osoblju — tu najpre gledaj. Napomena: ova lista se BRIŠE pri svakom redeploy-u ili dužem mirovanju servera (besplatni hosting), nije trajna arhiva.</p>
+  <button onclick="load()">Osveži</button>
+  <div id="list" style="margin-top:16px"></div>
+  <script>
+    async function load() {
+      const res = await fetch('/api/admin/conversations?secret=${encodeURIComponent(ADMIN_SECRET)}');
+      const data = await res.json();
+      const list = document.getElementById('list');
+      if (!data.length) { list.innerHTML = '<p id="empty">Još nema zabeleženih razgovora.</p>'; return; }
+      list.innerHTML = data.map(function(c) {
+        var cls = c.confident ? 'card' : 'card escalated';
+        var tag = c.confident ? '' : '<span class="tag">Prosleđeno osoblju</span>';
+        return '<div class="' + cls + '">' +
+          '<div class="q">Klijent: ' + escapeHtml(c.question) + '</div>' +
+          '<div class="a">Bot: ' + escapeHtml(c.answer) + '</div>' +
+          '<div class="meta"><span>' + new Date(c.t).toLocaleString('sr-RS') + '</span>' + tag + '</div>' +
+        '</div>';
+      }).join('');
+    }
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, function(ch) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]; });
+    }
+    load();
+  </script>
+</body></html>`);
 });
 
 // ---------- debug: inspect retrieval without spending an AI call ----------
