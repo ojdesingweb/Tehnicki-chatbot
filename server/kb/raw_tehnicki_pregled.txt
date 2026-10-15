@@ -1,0 +1,879 @@
+
+--- strana 1 ---
+BUDITE NA PRAVNOJ STRANI
+online@paragraf.rs
+www.paragraf.rs
+Preuzeto iz elektronske pravne baze Paragraf Lex
+Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa,
+poslednju verziju možete naći OVDE.
+PRAVILNIK
+O TEHNIČKOM PREGLEDU VOZILA
+("Sl. glasnik RS", br. 31/2018, 70/2018 i 62/2022)
+I UVODNE ODREDBE
+Član 1
+Ovim pravilnikom propisuju se uslovi koje moraju da ispunjavaju privredna društva koja vrše tehnički pregled vozila, uslovi i
+način vršenja tehničkog pregleda vozila i evidencije koje su privredna društva koja vrše tehnički pregled vozila dužna da
+vode.
+Član 2
+Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:
+1) tehnički pregled vozila je skup radnih operacija pri kojima se odgovarajućim merenjima i poređenjem izmerenih veličina
+sa propisanim vrednostima, kao i vizuelnim pregledom bez ili uz korišćenje odgovarajućih alata, bez bitnih rasklapanja,
+utvrđuje tehnička ispravnost uređaja i opreme, odnosno tehnička ispravnost vozila u celini, kao i da li vozilo ispunjava
+propisane uslove i tehničke normative za učešće u saobraćaju na putu;
+2) objekat za vršenje tehničkog pregleda vozila (u daljem tekstu: objekat) je građevina koja predstavlja fizičku celinu u
+kojoj se nalazi prostor u kojem se vrši tehnički pregled vozila;
+3) poligon za vršenje tehničkog pregleda vozila (u daljem tekstu: poligon) je površina namenjena za vršenje tehničkog
+pregleda vozila van objekta;
+4) prilazni put je put koji povezuje javni put i objekat, odnosno poligon;
+5) tehnološka linija za vršenje tehničkog pregleda vozila (u daljem tekstu: tehnološka linija) je prostor u objektu, odnosno
+na poligonu, u kojem se na međusobno povezanim radnim mestima vrši tehnički pregled vozila;
+6) radno mesto je deo prostora tehnološke linije, sa uređajima i opremom ili bez njih, na kojem se izvode utvrđene radne
+operacije pri vršenju tehničkog pregleda vozila;
+7) tehnologija vršenja tehničkog pregleda je utvrđeni redosled radnih operacija na uređajima vozila pri vršenju tehničkog
+pregleda, prema radnim mestima;
+8) manevrisanje vozilom je radnja promene pravca ili smera kretanja vozila, pri čemu se izvodi najmanje jedno kretanje
+hodom unazad;
+9) (brisana)
+
+--- strana 2 ---
+10) stranka na tehničkom pregledu (u daljem tekstu: stranka) je lice koje je dovezlo vozilo na tehnički pregled.
+Izrazi koji se koriste u ovom pravilniku, a nisu posebno definisani u stavu 1. ovog člana, imaju značenje određeno drugim
+propisima.
+Član 3
+U objektu, privredno društvo može biti ovlašćeno za vršenje tehničkog pregleda:
+1) vozila čija najveća dozvoljena masa (u daljem tekstu: NDM) ne prelazi 3,5 t, osim mopeda i motocikala;
+2) vozila, osim zglobnih autobusa, trolejbusa, mopeda, motocikala i priključnih vozila vrste O i O;
+3 4
+3) vozila, osim trolejbusa, mopeda i motocikala.
+Privredno društvo koje ispunjava uslove za vršenje tehničkog pregleda vozila iz stava 1. ovog člana, može biti ovlašćeno za
+vršenje tehničkog pregleda trolejbusa, odnosno mopeda i motocikala, ukoliko ispunjava uslove propisane ovim pravilnikom
+koji se odnose na navedene vrste vozila.
+Na poligonu, privredno društvo može biti ovlašćeno za vršenje tehničkog pregleda sledećih vozila: tricikli, četvorocikli,
+motokultivatori, traktori, priključna vozila za traktor, radne mašine, vozila namenjena za prevoz košnica za pčele kod kojih su
+košnice sastavni deo vozila, vučno vozilo turističkog voza, priključna vozila turističkog voza, ostala vozila koja zbog tehničkih
+karakteristika ne mogu biti pregledana na tehnološkoj liniji koja ispunjava uslove za vršenje tehničkog pregleda vozila čija
+NDM prelazi 3,5 t.
+Tehnički pregled radnih mašina, traktora, priključnih vozila za traktor, vučnog vozila turističkog voza i priključnih vozila
+turističkog voza, može se vršiti i u objektu privrednog društva koje ispunjava uslove za vršenje tehničkog pregleda tih vozila.
+Ovlašćenje za vršenje tehničkog pregleda vozila na poligonu može dobiti privredno društvo koje ispunjava uslove za vršenje
+tehničkog pregleda vozila iz bilo koje tačke stava 1. ovog člana, ukoliko ispune uslove propisane ovim pravilnikom koji se
+odnose na tehnički pregled vozila na poligonu.
+U objektu javno preduzeće može biti ovlašćeno da vrši isključivo tehnički pregled autobusa, odnosno trolejbusa.
+II USLOVI KOJE MORAJU DA ISPUNJAVAJU PRIVREDNA DRUŠTVA
+Član 4
+Privredna društva moraju ispunjavati uslove utvrđene ovim pravilnikom u pogledu:
+1) građevinskog objekta, odnosno poligona, prilaznih puteva i drugih saobraćajnih površina;
+2) informacione opreme, koja omogućava efikasno povezivanje privrednog društva za vršenje tehničkog pregleda vozila,
+odnosno njegovog ogranka, sa centralnim informacionim sistemom i ministarstvom nadležnim za unutrašnje poslove (u
+daljem tekstu: Ministarstvo), radi dostavljanja propisanih podataka;
+3) uređaja i opreme za vršenje tehničkog pregleda vozila, uključujući i sistem za video snimanje vršenja tehničkog pregleda
+vozila (u daljem tekstu: video sistem);
+4) stručnog kadra za vršenje tehničkog pregleda vozila.
+1. Objekat, odnosno poligon, prilazni putevi i druge saobraćajne površine
+Član 5
+Objekat mora biti izgrađen od čvrstog materijala (cigla, blokovi, beton, čelična konstrukcija sa blokovima, odnosno sa panel
+ispunom i sl.) i mora imati najmanje jednu tehnološku liniju.
+Tehnološka linija u objektu mora biti prolazna, odnosno takva da omogućava kretanje merodavnog vozila hodom unapred sa
+prostora namenjenog za čekanje vozila, prilikom ulaska i izlaska iz objekta za vršenje tehničkog pregleda, pri čemu nije
+potrebno manevrisati vozilom, osim u slučaju provere ispravnosti uređaja za prenos snage u pogledu funkcionalnosti
+sklopova za hod unazad i uređaja za zaustavljanje vozila za osposobljavanje kandidata za vozače. Vozilo samo jednom
+prolazi kroz tehnološku liniju.
+Izuzetno od stava 2. ovog člana, tehnološka linija za vozila čija NDM ne prelazi 3,5 t, može biti izvedena na način da
+merodavno vozilo napušta tehnološku liniju hodom unazad ili hodom unapred ponovnim prolaskom kroz tehnološku liniju (u
+daljem tekstu: neprolazna tehnološka linija).
+Na neprolaznim tehnološkim linijama ne može se vršiti tehnički pregled priključnih vozila.
+Na neprolaznim tehnološkim linijama, tehnološkim linijama na kojima se pregled donjeg postroja vozila vrši pomoću
+platformske dizalice i tehnološkim linijama za vršenje tehničkog pregleda vozila čija NDM ne prelazi 3,5 t, na kojima zbog
+geometrijskih karakteristika objekta nije moguće izvršiti pregled priključnog vozila, ne može se vršiti tehnički pregled
+priključnih vozila.
+Član 6
+
+--- strana 3 ---
+Utvrđivanje ispunjenosti uslova za vršenje tehničkog pregleda vozila utvrđenih ovim pravilnikom, u pogledu objekta, prilaznih
+puteva i drugih saobraćajnih površina, vrši se neposrednim uvidom pri kretanju jednog ili više merodavnih vozila.
+Merodavno vozilo za objekat, odnosno tehnološku liniju za vršenje tehničkog pregleda vozila čija NDM ne prelazi 3,5 t, je
+motorno vozilo minimalne dužine 5,00 m.
+Merodavno vozilo za objekat, odnosno tehnološku liniju za vršenje tehničkog pregleda vozila čija NDM prelazi 3,5 t, osim
+zglobnih autobusa i priključnih vozila O i O, je motorno vozilo minimalne dužine 12,00 m.
+3 4
+Merodavna vozila za objekat, odnosno tehnološku liniju za vršenje tehničkog pregleda vozila čija NDM prelazi 3,5 t, su:
+1) skup vozila koji čine vučno vozilo i poluprikolica, minimalne dužine 16,00 m;
+2) skup vozila koji čine vučno vozilo i prikolica minimalne dužine 18,00 m.
+Član 7
+Granice tehnološke linije označavaju se na podlozi linijom širine 0,10 ± 0,03 m, koja se izvodi naizmeničnim poljima oblika
+paralelograma, crne i žute boje, sa dužinom polja od 0,20 ± 0,05 m, i ona je deo prostora tehnološke linije.
+Sve radne operacije pri vršenju tehničkog pregleda vozila vrše se u granicama tehnološke linije, pri čemu vozilo jednim
+svojim delom može biti van tog prostora.
+Ukoliko se tehnološka linija nalazi u sklopu objekta u kojem se obavljaju i druge delatnosti (hale, servisni prostor i sl.), ona se
+mora i odvojiti od ostalog prostora fizičkom zaštitom čija je visina najmanje 1,0 m.
+Tehnički pregled vozila vrši se kada su na tehnološkoj liniji obezbeđeni uslovi propisani tehničkim uputstvima proizvođača
+uređaja i opreme, odnosno metrološkim uslovima.
+Član 8
+Objekat mora da ima slobodan prostor za tehnološku liniju, oblika kvadra, čije su dimenzije (dužina x širina x visina)
+najmanje:
+1) 13,0 m x 4,5 m x 3,0 m - za tehničke preglede vozila čija NDM ne prelazi 3,5 t;
+2) 18,0 m x 5,0 m x 4,5 m - za tehničke preglede vozila čija NDM prelazi 3,5 t, osim zglobnih autobusa i priključnih vozila O i
+3
+O;
+4
+3) 23,0 m x 5,0 m x 4,5 m - za tehničke preglede vozila čija NDM prelazi 3,5 t.
+Izuzetno od stava 1. tačka 1) ovog člana, dužina slobodnog prostora tehnološke linije na kojoj se pregled donjeg postroja
+vozila vrši pomoću platformske dizalice može biti najmanje 11 m, ukoliko je na radnom mestu sa platformskom dizalicom
+obezbeđena visina od najmanje 4,7 m.
+Izuzetno od stava 1. tač. 2) i 3) ovog člana, visina slobodnog prostora za tehnološku liniju može biti najmanje 4,2 m, ukoliko
+je na radnom mestu gde se vrši podizanje kabine teretnih vozila obezbeđena visina od najmanje 4,5 m.
+Izuzetno od stava 1. tačka 3) ovog člana, visina slobodnog prostora za tehnološku liniju koja je namenjena samo za vršenje
+tehničkog pregleda trolejbusa može biti jednaka najmanje visini električne mreže za napajanje trolejbusa.
+Član 9
+Noseći stubovi i drugi građevinski elementi objekta, čije dimenzije (dužina i širina, odnosno prečnik) ne prelaze 0,60 m, kao i
+bočni ulaz u kanal, elementi instalacija objekta (grejanja, vazduha i sl.) smatraju se delom slobodnog prostora tehnološke
+linije (u smislu dužine i širine ovog prostora) pod uslovom da njihov položaj nema uticaj na vršenje tehničkog pregleda pri
+čemu najkraće rastojanje između podužne ose kanala i stubova, građevinskih elemenata, odnosno bočnog ulaza u kanal i
+elemenata instalacija objekta, nije manje od:
+1) 1,6 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 1,9 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Podužna osa kanala može biti pomerena u odnosu na srednju podužnu vertikalnu ravan slobodnog prostora, u desnu stranu
+posmatrano u pravcu kretanja vozila, tako da najkraće rastojanje između podužne ose kanala i desne strane tog slobodnog
+prostora ne sme biti manje od:
+1) 1,75 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 2,00 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Ako su obrtni valjci za vozila čija NDM ne prelazi 3,5 t namenjeni i za utvrđivanje sila kočenja mopeda i motocikala, kanal
+mora biti prekriven u dužini koja obezbeđuje bezbedno vršenje tehničkog pregleda.
+Član 10
+
+--- strana 4 ---
+Najkraće rastojanje, posmatrano od ulaza, između granice tehnološke linije i bliže ivice otvora obrtnih valjaka za merenje sila
+kočenja, mora biti najmanje:
+1) 4,0 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 7,0 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Član 11
+Podloga na radnim mestima na kojima se nalazi vozilo, odnosno skup vozila, pri vršenju tehničkog pregleda motornog
+odnosno priključnog vozila, mora biti horizontalna odnosno sa poprečnim simetričnim dvostranim nagibom koji nije veći od
+1,0%, i izgrađena od betona, asfalta ili drugog materijala čiji koeficijent prijanjanja obezbeđuje nesmetano vršenje tehničkog
+pregleda vozila.
+Položaj uređaja kojima se vrši tehnički pregled vozila ne sme imati negativan uticaj na tehnički pregled vozila i mora biti takav
+da omogućava pravilnu upotrebu ostalih uređaja kao i nesmetan pristup i propisano vršenje tehničkog pregleda vozila.
+Član 12
+U objektu mora postojati prostorija za centralni računar tehničkog pregleda i za čuvanje evidencija i pečata (u daljem tekstu:
+administrativna kancelarija), čija je površina najmanje 10 m2.
+U administrativnoj kancelariji mora postojati odgovarajući prostor (ormani, police, kase i sl.) za odlaganje i čuvanje evidencija
+propisanih ovim pravilnikom.
+U objektu mora postojati prostorija za stranke iz koje je moguće posmatrati celokupni tok tehničkog pregleda vozila,
+neposredno ili putem sistema za video snimanje vršenja tehničkog pregleda.
+Za vreme vršenja tehničkog pregleda vozila, na tehnološkoj liniji i u administrativnoj kancelariji dozvoljen je pristup samo
+kontrolorima tehničkog pregleda (u daljem tekstu: kontrolor), odnosno licima koja se obučavaju za kontrolora, odgovornom
+licu, licima koja vrše nadzor nad privrednim društvom i policijskom službeniku koji je uputio vozilo na kontrolni tehnički
+pregled.
+Na vidnom mestu u objektu mora biti postavljeno upozorenje o zabrani zadržavanja na tehnološkoj liniji za vreme vršenja
+tehničkog pregleda vozila.
+Član 13
+Na ulazu u objekat i izlazu iz objekta moraju postojati ugrađena vrata.
+Dimenzije vrata objekta moraju biti najmanje (širina x visina):
+1) 3,0 m x 2,8 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 3,5 m x 4,1 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Član 14
+U objektu za vršenje tehničkog pregleda vozila mora postojati kanal.
+Dužina kanala:
+1) za tehničke preglede vozila čija NDM ne prelazi 3,5 t mora biti najmanje 6,0 m i kanal mora imati najmanje jedno
+stepenište. Ako kanal ima bočni ulaz, dužina kanala mora biti najmanje 5,0 m;
+2) za tehničke preglede vozila čija NDM prelazi 3,5 t mora biti najmanje 13,0 m i kanal mora imati stepenište na obe strane.
+Ako kanal ima bočni ulaz, dužina kanala mora biti najmanje 12,0 m.
+Pod dužinom kanala podrazumeva se dužina otvora u podlozi tehnološke linije na kojoj je obezbeđena propisana širina i
+visina kanala, osim visine kanala u delu gde se nalaze stepenice.
+Širina kanala, celom dužinom i visinom, mora iznositi najmanje 0,75 m, pri čemu širina između spoljnih strana bočnih
+odbojnih profila mora iznositi najmanje 0,75 m, a najviše 0,98 m.
+Visina kanala celom dužinom i širinom osim u delu gde se nalaze stepenice, mora iznositi najmanje 1,4 m, a najviše 1,6 m,
+dok kod kanala sa bočnim ulazom visina u dužini spoja sa bočnim ulazom može biti veća.
+Bočni odbojni profili moraju biti pričvršćeni duž ivica kanala, osim na delovima na kojima to tehnologija vršenja tehničkog
+pregleda vozila ne dozvoljava i imati visinu najmanje 0,05 m, mereno od površine podloge.
+Na početku kanala mora postojati polukružno ili trouglasto uzdignuće, čija je širina na mestu spoja sa kanalom najmanje
+jednaka širini kanala, a visina jednaka visini bočnog odbojnog profila i boja njegove površine mora biti različita od boje
+podloge tehnološke linije.
+Ako je kanal izgrađen sa bočnim ulazom, bočni ulaz u kanal mora biti u okviru prostora namenjenog za vršenje tehničkog
+pregleda vozila i mora imati zaštitnu ogradu.
+
+--- strana 5 ---
+Kanal mora:
+1) imati ugrađena svetlosna tela za stalno osvetljenje sa adekvatnom zaštitom, prenosnu električnu lampu sa adekvatnom
+zaštitom i električni priključak napona koji nije veći od 24 V;
+2) imati senzorsku zaštitu koja sprečava uključivanje obrtnih valjaka kada se u kanalu nalaze lica;
+3) biti prolazan (kretanje koje ne podrazumeva, klečeći ili puzeći položaj) i na mestima na kojima su postavljeni pojedini
+uređaji;
+4) imati sistem za odvođenje tečnosti koja se nakuplja na dnu kanala, ukoliko se tečnost nakuplja na dnu kanala;
+5) omogućiti pomeranje kanalske dizalice u dužini od najmanje 2,0 m.
+Izuzetno od stava 1. ovog člana, na tehnološkoj liniji za tehnički pregled motornih vozila čija NDM ne prelazi 3,5 t, umesto
+kanala može postojati platformska dizalica koja:
+1) pri oslanjanju svih točkova na njenu podlogu podiže celo vozilo;
+2) ima nosivost od najmanje 3,5 t (najmanje sile podizanja 35 kN);
+3) je opremljena dodatnom dizalicom kojom se omogućava rasterećenje točkova, podizanjem pojedinačne osovine, čija je
+nosivost najmanje 2,0 t (najmanje sile podizanja 20 kN), ili podizanjem celog vozila, čija je nosivost najmanje 3,5 t (najmanje
+sile podizanja 35 kN).
+Član 15
+Prilazni put mora biti od savremenog kolovoznog zastora (od asfalta, betona, behatona ili od drugog materijala koji
+obezbeđuje najmanje kvalitet koji imaju podloge od asfalta i betona) i mora biti širine najmanje:
+1) 2,0 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 2,55 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Na prilaznom putu mora biti obezbeđen slobodan profil koji ima visinu najmanje jednaku propisanoj visini vrata objekta.
+Javni put na koji se priključuje prilazni put mora biti od savremenog kolovoznog zastora.
+Geometrijske karakteristike priključka na javni put moraju pružati mogućnost merodavnim vozilima isključenje i uključenje u
+saobraćaj na propisan i bezbedan način, bez manevrisanja, uz poštovanje pravila saobraćaja.
+Ako pri izlasku vozila iz objekta, odnosno pri uključivanju vozila u saobraćaj, ne postoji dovoljna preglednost za bezbedan
+izlazak vozila, preglednost mora biti obezbeđena odgovarajućim brojem i položajem saobraćajnih ogledala.
+Ako prilazni put ili jedan njegov deo nije na nepokretnosti na kojoj se nalazi i objekat, mora biti obezbeđen dokaz o pravu
+korišćenja prilaznog puta.
+Član 16
+Ispred ulaza u objekat, odnosno ispred tehnološke linije, mora postojati prostor namenjen za čekanje vozila, čija dužina mora
+biti najmanje:
+1) 10,0 m - kod tehnoloških linija za vozila čija NDM ne prelazi 3,5 t;
+2) 15,0 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t, osim zglobnih autobusa i priključnih vozila O i O;
+3 4
+3) 18,8 m - kod tehnoloških linija za vozila čija NDM prelazi 3,5 t.
+Ako je prostor namenjen za čekanje deo prilaznog puta kojim se vozila kreću i prilikom napuštanja objekta, onda na
+prilaznom putu pored reda za čekanje mora postojati prostor koji omogućava nesmetano kretanje, čija širina nije manja od
+širine propisane članom 15. stav 1. ovog pravilnika.
+Prostor namenjen za čekanje, u slučaju tehnološke linije za vozila čija NDM ne prelazi 3,5 t, može biti obezbeđen u obliku
+parkirališta sa najmanje dva parking mesta za putnička vozila, koja su obeležena u skladu sa SRPS U.S4.234. Ovo
+parkiralište ne može biti deo javnog puta, odnosno javne površine i ulaz odnosno izlaz mora biti obezbeđen isključivo sa
+prilaznog puta.
+Prostor namenjen za čekanje ne može biti deo površine koju koriste drugi učesnici u saobraćaju (put, pešački prelaz, prelaz
+biciklističke staze, raskrsnica sa drugim putem, trotoar i sl.) ili drugi korisnici objekta u kojem se nalazi tehnološka linija ili deo
+puta na kojem je zabranjeno zaustavljanje i parkiranje.
+Mesto na prilaznom putu ispred koga se zaustavlja prvo vozilo koje čeka u redu označava se poprečnom oznakom žute boje,
+širine 0,30 ± 0,05 m.
+Neprolazna tehnološka linija mora imati površinu u objektu ili ispred ili iza objekta, na kojoj se vozilom može izvršiti
+manevrisanje nakon izvršenog tehničkog pregleda, radi uključenja na prilazni put hodom unapred.
+Površina za manevrisanje:
+
+--- strana 6 ---
+1) mora biti takvih dimenzija koje omogućavaju da merodavno vozilo sa najviše jednim hodom unazad zauzme položaj za
+uključenje na prilazni put hodom unapred;
+2) ne može biti deo trotoara, biciklističke staze, odnosno neke druge javne površine;
+3) ne može biti deo prostora prilaznog puta namenjenog za čekanje vozila.
+Stranka preuzima vozilo van tehnološke linije, na mestu koje ne predstavlja površinu koju koriste drugi učesnici u saobraćaju
+(put, pešački prelaz, prelaz biciklističke staze, raskrsnica sa drugim prilaznim putem, trotoar i sl.).
+Član 17
+Poligon mora da ispunjava najmanje sledeće uslove:
+1) da nije deo javnog puta;
+2) da ima dužinu najmanje 50,0 m i širinu najmanje 3,5 m;
+3) da je ravan, horizontalan, odnosno sa poprečnim nagibom koji nije veći od 2,5% i sa podlogom od savremenog
+kolovoznog zastora po čitavoj površini poligona.
+Izuzetno od stava 1. tačka 1) ovog člana, ako je poligon deo puta, mora postojati saglasnost upravljača puta da privredno
+društvo može da vrši tehnički pregled vozila na tom delu puta. U tom slučaju, u skladu sa odredbom člana 158. stav 3.
+Zakona o bezbednosti saobraćaja na putevima, mora biti postavljena saobraćajna signalizacija, koja zabranjuje saobraćaj
+ostalih vozila za vreme vršenja tehničkog pregleda vozila. Ovaj deo puta za vreme vršenja tehničkog pregleda vozila, u cilju
+onemogućavanja korišćenja puta od strane drugih korisnika, mora biti obezbeđen i opremom koja se koristi za obeležavanje
+prepreka na putu i mesta na kome se izvode radovi na putu.
+Na poligonu iz stava 1. ovog člana tehnički pregled vozila može vršiti više privrednih društava.
+Prilazni put do poligona mora da ispunjava uslove iz člana 15. ovog pravilnika.
+Član 18
+Prostor u kojem se vrši tehnički pregled vozila, administrativna kancelarija i prostorija za stranke, moraju biti evidentirani kao
+poslovni prostor.
+2. Informaciona oprema
+Član 19
+Privredno društvo mora imati informacionu opremu koja omogućava njegovo povezivanje sa centralnim informacionim
+sistemom i Ministarstvom, radi dostavljanja propisanih podataka u realnom vremenu.
+Centralni informacioni sistem sa programom koji omogućava prikupljanje i dostavu propisanih podataka od strane privrednog
+društva, iz objekata u kojima vrši tehnički pregled vozila, i centralizovanu obradu podataka, obezbeđuje Agencija za
+bezbednost saobraćaja (u daljem tekstu: Agencija).
+3. Uređaji i oprema za vršenje tehničkog pregleda vozila
+Član 20
+Uređaji za vršenje tehničkog pregleda vozila koji predstavljaju merila u smislu metroloških propisa moraju biti overeni od
+strane nadležnog organa u rokovima određenim tim propisima.
+Uređaji za vršenje tehničkog pregleda vozila koji predstavljaju merila, za koje ne postoje propisani metrološki zahtevi ili za
+koje se ovim pravilnikom ne zahteva overavanje, moraju biti etalonirani od strane akreditovane organizacije u skladu sa
+zahtevima standarda SRPS ISO/IEC 17025 i o čemu mora postojati odgovarajući dokaz.
+Član 21
+Privredno društvo u objektu mora imati i koristiti sledeće uređaje koji predstavljaju merila:
+1) uređaj za merenje sila kočenja na obimu točkova, koji mora ispunjavati sledeće uslove:
+(1) za tehnički pregled mopeda i motocikla:
+- imati jedan par obrtnih valjaka za merenje sila kočenja,
+- obrtni valjci se moraju isključiti pri dostizanju najveće sile kočenja na točku,
+- imati dodatni uređaj za merenje sile na komandi uređaja za zaustavljanje (dinamometar),
+- imati prikaz i ispis sila kočenja na točku i sile na komandi uređaja za zaustavljanje, u svakom trenutku kočenja,
+
+--- strana 7 ---
+- imati grafički prikaz i ispis vrednosti otpora kotrljanja, sila kočenja i sile na komandi uređaja za zaustavljanje, u
+funkciji vremena, na kojima je prikazana neujednačenost sile kočenja po obrtu točka - ovalnosti kočnog doboša
+ili diska (u daljem tekstu: ovalnost kočnica),
+- imati numerički prikaz najvećih izmerenih vrednosti sila kočenja, najveće sile na komandi uređaja za
+zaustavljanje u toku merenja sila kočenja, ovalnosti, kočnog koeficijenta, datuma i vremena početka merenja
+sila kočenja, osovinskog opterećenja i ukupne mase, odnosno težine vozila (kad je uređaj za merenje
+osovinskog opterećenja vozila integralni deo ovog uređaja),
+- imati merni opseg uređaja od 0 kN do najmanje 2,5 kN,
+- da može izdržati osovinsko opterećenje od najmanje 5 kN,
+- imati mogućnost povezivanja sa centralnim računarom;
+(2) za tehnički pregled vozila čija NDM ne prelazi 3,5 t:
+- imati dva para obrtnih valjaka,
+- obrtni valjci se moraju isključiti pri dostizanju najveće sile kočenja na jednom točku,
+- imati dodatni uređaj za merenje sile na komandi uređaja za zaustavljanje (dinamometar),
+- imati grafički prikaz i ispis sila kočenja na oba točka i njihove razlike (%) i sile na komandi uređaja za
+zaustavljanje, u svakom trenutku kočenja,
+- imati grafički prikaz i ispis vrednosti otpora kotrljanja, sila kočenja i sile na komandi uređaja za zaustavljanje u
+funkciji vremena, odnosno sila kočenja u funkciji sile na komandi uređaja za zaustavljanje za vozila sa
+permanentnim pogonom na više osovina, na kojima je prikazan i segment provere ovalnosti kočnica,
+- imati numerički prikaz najvećih izmerenih vrednosti sila kočenja, najveće razlike sila kočenja (%) u toku
+propisanog dela kočenja, najveće sile na komandi uređaja za zaustavljanje u toku merenja sila kočenja,
+ovalnosti, kočnog koeficijenta, datuma i vremena početka merenja sila kočenja, osovinskog opterećenja i
+ukupne mase, odnosno težine vozila (kad je uređaj za merenje osovinskog opterećenja vozila integralni deo
+ovog uređaja),
+- imati merni opseg od 0 kN do najmanje 6 kN,
+- podneti osovinsko opterećenje od najmanje 20 kN,
+- imati mogućnost povezivanja sa centralnim računarom;
+(3) za tehnički pregled vozila čija NDM prelazi 3,5 t:
+- imati dva para obrtnih valjaka,
+- obrtni valjci se moraju isključiti pri dostizanju najveće sile kočenja na jednom točku,
+- imati dodatni uređaj za merenje sile na komandi uređaja za zaustavljanje (dinamometar),
+- imati grafički prikaz i ispis sila kočenja na oba točka i njihove razlike (%) i sile na komandi uređaja za
+zaustavljanje, u svakom trenutku kočenja,
+- imati prikaz vrednosti pritiska vazduha u toku merenja pritiska za svaki povezani senzor pritiska,
+- imati grafički prikaz i ispis vrednosti otpora kotrljanja, sila kočenja i sile na komandi uređaja za zaustavljanje u
+funkciji vremena, odnosno sila kočenja u funkciji sile na komandi uređaja za zaustavljanje za vozila sa
+permanentnim pogonom na više osovina, na kojima je prikazan i segment provere ovalnosti kočnica,
+- imati numerički prikaz najvećih izmerenih vrednosti sila kočenja, najveće razlike sila kočenja (%) u toku
+propisanog dela kočenja, najveće sile na komandi uređaja za zaustavljanje u toku merenja sila kočenja,
+ovalnosti, kočnog koeficijenta, datuma i vremena početka merenja sila kočenja, osovinskog opterećenja i
+ukupne mase, odnosno težine vozila i pritisaka vazduha ostvarenih pri najvećoj sili kočenja (u slučaju merenja
+sila kočenja uređaja za zaustavljanje sa pneumatičkim prenosnim mehanizmom),
+- imati merni opseg od 0 kN do najmanje 30 kN,
+- podneti osovinsko opterećenje od najmanje 120 kN,
+- imati komplet od najmanje dva senzora, mernog opsega od 0 bar do 20 bar, sa adapterima za merenje pritiska
+vazduha kod uređaja za zaustavljanje sa pneumatičkim prenosnim mehanizmom,
+- imati mogućnost povezivanja sa centralnim računarom;
+2) uređaj za merenje dimnosti izduvnih gasova dizel motora koji omogućava i merenje broja obrtaja i radne temperature
+motora. Ovaj uređaj mora imati mogućnost prikaza i ispisa izmerenih vrednosti i mogućnost povezivanja sa centralnim
+računarom. Prilikom kontrole sastava izduvnih gasova, motor mora biti potpuno zagrejan, tj. temperatura motornog ulja,
+
+--- strana 8 ---
+merena pomoću senzora temperature, mora biti najmanje 80°C ili niža, ako je to normalna radna temperatura motora
+predviđena od strane proizvođača vozila;
+3) uređaj za merenje emisije izduvnih gasova motora sa aktivnim paljenjem, koji omogućava merenje nivoa CO, radne
+temperature motora, broja obrtaja i izračunavanje faktora sagorevanja (λ faktor). Ovaj uređaj mora imati mogućnost prikaza i
+ispisa izmerenih vrednosti i mogućnost povezivanja sa centralnim računarom. Prilikom kontrole sastava izduvnih gasova,
+motor mora biti potpuno zagrejan, tj. temperatura motornog ulja, merena pomoću senzora temperature, mora biti najmanje
+80°C ili niža, ako je to normalna radna temperatura motora predviđena od strane proizvođača vozila;
+4) uređaj za merenje pritiska u pneumaticima (manometar) mernog opsega od 0 bar do najmanje 6 bar, za tehnički pregled
+mopeda i motocikala i vozila čija NDM ne prelazi 3,5 t, odnosno mernog opsega od 0 bar do najmanje 10 bar, za tehnički
+pregled vozila čija NDM prelazi 3,5 t;
+5) uređaj za proveru usmerenosti svetala i intenziteta osvetljenosti, koji mora imati mogućnost numeričkog prikazivanja
+izmerenih vrednosti intenziteta osvetljenosti u luksima (lx);
+6) uređaj za merenje brzine mopeda (samo za vršenje tehničkog pregleda mopeda i vozila koja se proizvode u varijanti
+mopeda i motocikla) mora imati:
+(1) mogućnost simulacije otpora koji se javljaju pri kretanju ovih vozila;
+(2) prikaz i ispis vrednosti najveće brzine u simuliranim uslovima;
+(3) merni opseg od 0 km/h do najmanje 70 km/h;
+(4) najveću grešku ± 1 km/h;
+(5) mogućnost blokiranja točka koji nije pogonski;
+(6) mogućnost povezivanja sa centralnim računarom;
+(7) poklopce za obrtne valjke ukoliko vozilo prelazi preko njih, pri vršenju tehničkog pregleda, pri čemu se ne vrši
+merenje brzine (pod poklopcima se podrazumevaju i sklopovi koji omogućavaju olakšan prelazak preko
+valjaka);
+7) uređaj za merenje usporenja vozila, pri vršenju tehničkog pregleda na poligonu, koji mora:
+(1) imati opremu koja omogućava merenje sile na nožnoj i ručnoj komandi uređaja za zaustavljanje, kao i opremu
+za pričvršćivanje uređaja na vozilo;
+(2) imati mogućnost ispisa dijagrama usporenja i numerički izražene maksimalne vrednosti usporenja i sile na
+komandi uređaja za zaustavljanje i brzine vozila na početku merenja usporenja vozila;
+(3) imati mogućnost priključivanja na računar;
+(4) imati opseg od 0 m/s2 do 9,81 m/s2;
+8) uređaj za merenje osovinskog opterećenja vozila (vaga), koji mora ispunjavati sledeće uslove:
+(1) imati merni opseg od 0 t do najmanje 0,5 t, za vršenje tehničkog pregleda mopeda i motocikala;
+(2) imati merni opseg od 0 t do najmanje 2 t, za vršenje tehničkog pregleda vozila čija NDM ne prelazi 3,5 t;
+(3) imati merni opseg od 0 t do najmanje 12 t, za vršenje tehničkog pregleda vozila čija NDM prelazi 3,5 t;
+(4) biti integralni deo uređaja za merenje sila kočenja na obimu točkova ili nezavisni uređaj u sklopu tehnološke
+linije;
+(5) imati mogućnost prikaza i ispisa izmerenih vrednosti, sa datumom i vremenom merenja mase;
+(6) imati mogućnost povezivanja sa centralnim računarom;
+9) uređaj za merenje sadržaja vlage u kočnoj tečnosti;
+10) merne trake za merenje dužine mernog opsega od 0 m do najmanje 3 m i od 0 m do najmanje 25 m;
+11) pomično merilo dužine, sa rezolucijom od 0,1 mm ili boljom;
+12) kalibre za proveru uređaja za spajanje vučnog i priključnog vozila. Na neprolaznoj tehnološkoj liniji ovaj uređaj nije
+obavezan.
+Uređaji iz stava 1. tačka 1) ovog člana, iz podtačke (1) alineja treća, podtačke (2) alineja treća i podtačke (3) alineja treća
+ovog člana, kao i uređaji iz stava 1. tač. 6)-12) ovog člana, moraju ispunjavati uslove određene u članu 20. stav 2. ovog
+pravilnika.
+Uređaji za koje je ovim pravilnikom propisan ispis rezultata moraju omogućiti ispis teksta na srpskom jeziku.
+Član 22
+
+--- strana 9 ---
+Pored merila iz člana 21. ovog pravilnika, privredno društvo mora imati i koristiti sledeće uređaje:
+1) uređaj za kontrolu zazora veze točkova i šasije i upravljačkog mehanizma sa najmanje četiri smera razvlačenja
+(razvlačilica), na tehnološkoj liniji za vršenje tehničkog pregleda vozila čija NDM prelazi 3,5 t, koji može izdržati osovinsko
+opterećenje od najmanje 120 kN;
+2) kanalsku dizalicu za podizanje pojedinačne osovine vozila, nosivosti najmanje 2,5 t (najmanje sile podizanja 25 kN) na
+tehnološkoj liniji za vozila čija NDM ne prelazi 3,5 t, odnosno nosivosti najmanje 12 t (najmanje sile podizanja 120 kN) na
+tehnološkoj liniji za vozila čija NDM prelazi 3,5 t. Kanalska dizalica mora biti opremljena mehanizmom koji omogućava njeno
+pomeranje duž kanala, odnosno mehanizmom koji omogućava njeno podešavanje u poprečnom smislu u cilju ravnomernog
+podizanja vozila. Podizanje i spuštanje vozila kanalskom dizalicom ne sme biti na ručni pogon;
+3) uređaj za funkcionalnu kontrolu električnih priključaka motornih vozila koja vuku priključna vozila;
+4) uređaj za kontrolu nepropusnosti gasne instalacije vozila sa pogonom na gas (detektor gasa);
+5) kompresor čiji je radni pritisak najmanje 6 bar, za tehnički pregled vozila čija NDM ne prelazi 3,5 t, odnosno najmanje 10
+bar za tehnički pregled vozila čija NDM prelazi 3,5 t;
+6) uređaj koji ima mogućnost provere ispravnosti sistema za upozoravanje na neispravnost opreme za regulisanje aero
+zagađenja preko OBD priključka vozila. Ovaj uređaj može biti integrisan u okviru uređaja za merenje sadržaja izduvnih
+gasova. Proveru ispravnosti sistema za upozoravanje na neispravnost opreme za regulisanje aero zagađenja nije potrebno
+vršiti na teretnim vozilima čija NDM prelazi 3,5 t, putničkim vozilima sa pogonom na benzin proizvedenim pre 2001. godine i
+putničkim vozilima sa pogonom na dizel proizvedenim pre 2004. godine;
+7) uređaj za proveru ispravnosti uređaja za zaustavljanje priključnih vozila sa inercionom komandom. Na neprolaznim
+tehnološkim linijama, tehnološkim linijama na kojima se pregled donjeg postroja vozila vrši pomoću platformske dizalice i
+tehnološkim linijama za vršenje tehničkog pregleda vozila čija NDM ne prelazi 3,5 t, na kojima zbog geometrijskih
+karakteristika objekta nije moguće izvršiti pregled priključnog vozila, ovaj uređaj nije obavezan.
+Član 23
+Privredno društvo mora imati i koristiti sledeću opremu:
+1) sistem za video snimanje vršenja tehničkog pregleda vozila na tehnološkoj liniji, koji mora da ima:
+(1) kolor HD kameru;
+(2) karakteristike koje podržavaju rad kamera ne umanjujući kvalitet snimljenog materijala;
+(3) monitor na kome kontrolori mogu videti trenutni video sadržaj koji beleže kamere i indikator koji daje
+informaciju o uključenosti uređaja za snimanje.
+2) digitalni fotoaparat, za dokumentovanje vršenja tehničkog pregleda vozila na poligonu;
+3) sistem za odvod izduvnih gasova sa mesta na kojem se vrši merenje dimnosti u spoljnu sredinu;
+4) katalog boja vozila koji se sastoji iz 10 pločica koje su izvedene u osnovnoj boji. Pojedinačna pločica kataloga mora imati
+površinu od najmanje 50 cm2, oznaku osnovne boje i biti izrađena od materijala koji obezbeđuje nepromenjivost osnovne
+boje i trajnost pločice;
+5) električnu mrežu za napajanje trolejbusa na tehnološkim linijama za tehnički pregled trolejbusa, ukoliko je ista neophodna
+da bi se tehnički pregled trolejbusa izvršio na propisan način;
+6) sitni automehaničarski alat (ključevi, odvijači, klešta, metalne poluge, oslonci za poluge i dr.);
+7) ostala oprema neophodna za izvođenje propisanih operacija (dva klinasta podmetača, merdevine, baterijska lampa, pribor
+za očitavanje identifikacione oznake motora, najmanje dva prekrivača za zaštitu sedišta od prljanja, jedan prekrivač za zaštitu
+krila vozila od grebanja pri identifikaciji i pregledu prostora za motor, zaštitne rukavice i dr.).
+Član 24
+Boja vozila se sastoji od: oznake za vrstu površinske boje (laka), naziva osnovne boje i oznake tona boje.
+Oznake za vrstu površinske boje (laka) su:
+1) S - običan;
+2) E - metalni;
+3) F - folija.
+Nazivi i oznake za osnovne boje su:
+1) bela, oznaka - 0;
+2) žuta, oznaka - 1;
+
+--- strana 10 ---
+3) narandžasta, oznaka - 2;
+4) crvena, oznaka - 3;
+5) ljubičasta, oznaka - 4;
+6) plava, oznaka - 5;
+7) zelena, oznaka - 6;
+8) siva, oznaka - 7;
+9) braon, oznaka - 8;
+10) crna, oznaka - 9;
+11) višebojno (ako ne može da se utvrdi preovlađajuća boja), oznaka - 00.
+Oznake za identifikaciju svetlog/tamnog tona boje su:
+1) B - svetla (svetlije od osnovne);
+2) M - srednja (osnovna boja od 0 do 9);
+3) D - tamna (tamnije od osnovne).
+Bela i crna boju mogu imati samo srednji ton.
+Član 25
+Pri vršenju tehničkog pregleda vozila na poligonu privredno društvo od uređaja i opreme, propisanih čl. 21-23. ovog
+pravilnika mora imati i koristiti:
+1) računar koji ima mogućnost mrežne komunikacije i povezivanja sa uređajima za koje je to propisano ovim pravilnikom;
+2) uređaj za merenje dimnosti izduvnih gasova dizel motora;
+3) uređaj za merenje emisije izduvnih gasova motora sa aktivnim paljenjem;
+4) uređaj za pregled usmerenosti svetala i osvetljenosti;
+5) uređaj za merenje pritiska u pneumaticima (manometar);
+6) merne trake za merenje dužine;
+7) pomično merilo dužine;
+8) uređaj za merenje usporenja vozila;
+9) uređaj za funkcionalnu kontrolu električnih priključaka za priključna vozila;
+10) digitalni fotoaparat;
+11) katalog boja vozila;
+12) kalibre za proveru uređaja sa spajanje vučnog i priključnog vozila;
+13) sitni automehaničarski alat.
+Izuzetno, kada se vrši tehnički pregled vozila za koje nisu propisani normativi za izduvne gasove, privredno društvo ne mora
+imati uređaje iz stava 1. tač. 2) i 3) ovog člana.
+Za vršenje tehničkog pregleda vozila na poligonu privredno društvo ne može koristiti uređaje i opremu iz stava 1. ovog člana
+koja se nalaze na tehnološkoj liniji u objektu, osim u slučaju kada se ne poklapaju radna vremena u objektu i na poligonu.
+Izuzetno od odredbi prethodnog stava, ukoliko se poligon nalazi u neposrednoj blizini objekta, na istoj prostornoj celini
+(katastarskoj parceli), privredno društvo može na poligonu koristiti uređaje i opremu koji se koriste na tehnološkoj liniji u
+objektu, pri čemu se u tom slučaju ne može istovremeno vršiti tehnički pregled vozila u objektu i na poligonu. Ukoliko
+tehničke karakteristike vozila dozvoljavaju, deo propisanih radnih operacija može biti izveden i na tehnološkoj liniji u objektu.
+U slučaju da se zbog tehničkih karakteristika vozila merenje sila kočenja ne može izvršiti na propisan način u objektu, na
+uređaju za merenje sila kočenja na obimu točkova, ili bi moglo doći do oštećenja vozila, potrebna merenja za ocenu
+ispravnosti uređaja za zaustavljanje vrše se na poligonu.
+4. Stručni kadar za vršenje tehničkog pregleda vozila
+Član 26
+Privredno društvo mora imati najmanje dva kontrolora.
+
+--- strana 11 ---
+Tehnički pregled vozila može obavljati samo kontrolor koji ispunjava propisane uslove i ima važeću dozvolu (licencu).
+Kontrolor tehničkog pregleda mora:
+1) da ima najmanje završenu srednju stručnu školu u četvorogodišnjem ili trogodišnjem trajanju, struke mašinske,
+obrazovnog profila vezanog za motore i vozila ili struke saobraćajne, obrazovnog profila iz oblasti drumskog saobraćaja;
+2) da ima vozačku dozvolu, odnosno probnu vozačku dozvolu, za upravljanje motornim vozilima kategorije vozila čiji tehnički
+pregled obavlja;
+3) da ima završenu obuku za kontrolora tehničkog pregleda;
+4) da ima položen stručni ispit za kontrolora tehničkog pregleda;
+5) da u poslednje četiri godine nije pravosnažno osuđivan za krivična dela iz grupe protiv života i tela, krivična dela protiv
+službene dužnosti, kao i da se protiv njega ne vodi istraga za ova krivična dela, odnosno nije podignuta optužnica za ova
+krivična dela.
+Izuzetno, kontrolor koji na dan stupanja na snagu ovog pravilnika u privrednom društvu ovlašćenom za vršenje tehničkog
+pregleda vozila vrši tehnički pregled vozila prema ugovoru o radu najmanje pet godina, ne mora ispunjavati uslov iz stava 3.
+tač. 3) i 4) ovog člana, odnosno ne mora ispunjavati uslov iz stava 3. tačka 1) ovog člana ako ima završenu najmanje srednju
+stručnu školu mašinske struke obrazovnog profila koji nije vezan za motore i vozila, odnosno saobraćajne struke obrazovnog
+profila koji nije iz oblasti drumskog saobraćaja.
+Izuzetno od odredaba stava 3. tačka 2) ovog člana, kontrolor ne mora imati vozačku dozvolu za upravljanje vozilom čiji
+tehnički pregled vrši, ako najmanje jedan kontrolor sa kojim vrši tehnički pregled vozila ima vozačku dozvolu za upravljanje
+vozilom čiji tehnički pregled vrše.
+Pri vršenju tehničkog pregleda priključnog vozila turističkog voza, kontrolori ne moraju da imaju posebnu dozvolu za
+upravljanje turističkim vozom.
+Član 27
+Privredno društvo mora imati i koristiti:
+1) pristup bazi podataka o motornim i priključnim vozilima Agencije (u daljem tekstu: baza podataka);
+2) propise o bezbednosti saobraćaja: Zakon o bezbednosti saobraćaja na putevima, ovaj pravilnik, propise o uslovima koje
+moraju da ispunjavaju vozila u saobraćaju na putu u pogledu dimenzija, tehničkih uslova i uređaja, sklopova i opreme i
+tehničkih normativa, propise o ispitivanju vozila, kao i druge podzakonske propise i opšta akta doneta u vezi sa poslovima
+vezanim za tehničke preglede vozila u skladu sa zakonom;
+3) uputstva proizvođača za rukovanje uređajima i opremom, na srpskom jeziku;
+4) stručnu literaturu za obuku i unapređenje znanja kontrolora koji vrše tehnički pregled vozila određenu od strane Agencije;
+5) tehničku dokumentaciju - grafički prikaz parcele na kojoj se nalazi objekat, grafički prikaz objekta, odnosno tehnološke
+linije, prilaznih puteva, u odgovarajućoj razmeri sa iskotiranim dimenzijama koje su propisane ovim pravilnikom;
+6) elaborat tehnologije vršenja tehničkog pregleda vozila;
+7) tehničku dokumentaciju o uređajima (odobrenje tipa merila, overavanje, odnosno etaloniranje merila).
+III USLOVI I NAČIN VRŠENJA TEHNIČKOG PREGLEDA VOZILA
+Član 28
+Tehnički pregledi vozila su redovni, vanredni i kontrolni.
+Tehnički pregled vozila vrši se u radno vreme koje je vidno istaknuto i prijavljeno organu koji vrši nadzor, a promena radnog
+vremena mora biti prijavljena najkasnije radnog dana koji prethodi prvom radnom danu u izmenjenom terminu.
+Termini tehničkih pregleda vozila namenjenih za prevoz košnica za pčele se usklađuju dogovorom između privrednog
+društva i vlasnika, odnosno korisnika vozila.
+Termini tehničkih pregleda vozila na poligonu, ukoliko se poligon ne nalazi u neposrednoj blizini objekta, se prijavljuju organu
+koji vrši nadzor, najkasnije radnog dana koji prethodi danu vršenja tehničkog pregleda ovih vozila.
+Termine kontrolnih tehničkih pregleda van radnog vremena, organizaciona jedinica Ministarstva mora saopštiti privrednom
+društvu najkasnije radnog dana koji prethodi danu vršenja tehničkog pregleda ovih vozila.
+Privredno društvo će u toku radnog vremena bez odlaganja, nakon što završi započeti tehnički pregled vozila, izvršiti
+kontrolni tehnički pregled vozila po nalogu ovlašćenog lica Ministarstva, odnosno inspektora za drumski saobraćaj, radi
+kontrole tehničke ispravnosti vozila.
+Član 29
+
+--- strana 12 ---
+Pre početka vršenja tehničkog pregleda vozila vrši se vizuelno utvrđivanje ispunjenosti uslova za vršenje tehničkog pregleda.
+Redovni i vanredni tehnički pregled vozila se obavlja na zahtev stranke koja tom prilikom kontroloru daje na uvid saobraćajnu
+dozvolu, odnosno potvrdu o privremenoj registraciji ili potvrdu o registraciji, kao i ličnu kartu, a za strane državljane drugi
+odgovarajući dokument o identitetu. Ako je stranka izgubila saobraćajnu dozvolu na uvid podnosi uverenje o upisu u
+jedinstveni registar vozila.
+Ako se obavlja tehnički pregled novoproizvedenih vozila koja se prvi put registruju, stranka daje na uvid potvrdu o
+saobraznosti. Za prepravljena i pojedinačno proizvedena vozila za koja nije izdata potvrda o saobraznosti, kao i za
+kompletirana vozila i vozila koja se prvi put puštaju u saobraćaj u Republici Srbiji, stranka stavlja na uvid uverenje (potvrdu)
+da vozilo ispunjava propisane uslove (u daljem tekstu: uverenje o ispitivanju). Za vozila koja imaju ugrađen pogon na
+alternativna goriva stranka mora staviti na uvid potvrdu o periodičnom pregledu ovih uređaja ili potvrdu o saobraznosti.
+Redovni i vanredni tehnički pregled vrši se samo na čistom vozilu koje je u voznom stanju, a kontrolni tehnički pregled na
+vozilu koje je u voznom stanju.
+Redovni i vanredni tehnički pregled vrši se na neopterećenom vozilu, osim u slučaju tehničkih pregleda vatrogasnih vozila
+kada vozilo može biti opterećeno i vozila posebne namene sa opremom i instalacijom stalno ugrađenom na vozilu. Kontrolni
+tehnički pregled se može vršiti i na opterećenom vozilu, ukoliko tehnološka linija to omogućava. Pri korišćenju uređaja za
+proveru ispravnosti uređaja za zaustavljanje priključnih vozila sa inercionom komandom, na uređaju za merenje sila kočenja
+na obimu točkova, priključno vozilo može biti opterećeno.
+Vozilo koje je registrovano u Republici Srbiji, a nije odjavljeno, mora imati pri vršenju redovnog tehničkog pregleda sve
+propisane registarske tablice, odnosno tablice za privremeno označavanje, postavljene na predviđenim mestima, odnosno
+potvrdu o oduzetim registarskim tablicama, izdatu od strane nadležnog organa.
+Redovni i vanredni tehnički pregled vozila neće se vršiti ukoliko nisu ispunjeni uslovi iz st. 2-6. ovog člana. Ako navedene
+činjenice nisu utvrđene pri vizuelnom utvrđivanju ispunjenosti uslova za vršenje tehničkog pregleda vozila, vršenje tehničkog
+pregleda će se završiti u trenutku kada se ta činjenica utvrdi.
+Vozila za koja je utvrđeno da ne ispunjavaju uslove iz st. 2-6. ovog člana moraju se evidentirati, a izdavanje Izveštaja o
+utvrđenom stanju vozila iz člana 41. stav 3. ovog pravilnika će se izvršiti kada stranka, odnosno lice koje je vozilo uputilo na
+kontrolni tehnički pregled, to zahteva. U propisane evidencije se mora uneti najmanje: identifikaciona (VIN) oznaka vozila ako
+se može utvrditi, registarska oznaka ako je vozilo registrovano i podaci o stranci ako stranka poseduje ličnu kartu ili drugi
+dokument na osnovu kojeg se može utvrditi identitet stranke, a u napomeni moraju biti navedeni razlozi zbog čega tehnički
+pregled vozila nije vršen ili nije izvršen u celosti.
+Redovni i vanredni tehnički pregled neće se vršiti ni na vozilu kod kojeg je prostor u kojem je smešten motor zaštićen od
+strane proizvođača ili se oznaka motora ne može utvrditi bez bitnih rasklapanja vozila, dok se ne pribavi odgovarajuća
+potvrda proizvođača ili njegovog zastupnika ili ovlašćenog servisera. Za novo vozilo ova potvrda nije potrebna ukoliko se iz
+tehničke dokumentacije proizvođača može utvrditi identifikaciona oznaka motora.
+Vozila iz stava 9. ovog člana evidentiraju se na način propisan stavom 8. ovog člana.
+Izuzetno od stava 2. ovog člana, stranka koja na tehnički pregled doveze vozilo Ministarstva, ministarstva nadležnog za
+poslove odbrane ili Bezbednosno-informativne agencije, ne mora kontroloru da da ličnu kartu na uvid.
+Izuzetno od stava 3. ovog člana, tehnički pregled vozila može se izvršiti u okviru ispitivanja vozila. U tom slučaju ako je vozilo
+tehnički ispravno overiće se tehnička ispravnost u Izveštaju o ispitivanju koji je određen propisom o ispitivanju vozila i može
+se izdati Registracioni list za motorno-priključno vozilo (u daljem tekstu: Registracioni list), u čijoj rubrici napomena se
+konstatuje da važi uz uverenje o ispitivanju. Ukoliko je nakon izvršenog tehničkog pregleda izdat registracioni list, u
+propisanim evidencijama se evidentira kao redovni godišnji tehnički pregled, a ukoliko je izdata potvrda o tehničkoj
+ispravnosti kao vanredni tehnički pregled.
+Izuzetno od stava 3. ovog člana ukoliko se obavlja tehnički pregled traktora, priključnih vozila za traktor, motokultivatora i
+radnih mašina namenjenih za radove u poljoprivredi, starijih od deset godina, koja se prvi put registruju u Republici Srbiji, u
+skladu sa odredbama samostalnog člana 3. Pravilnika o izmeni i dopuni Pravilnika o registraciji motornih i priključnih vozila
+("Službeni glasnik RS", broj 41/22), stranka ne mora da stavi na uvid uverenje (potvrdu) da vozilo ispunjava propisane
+uslove.
+Član 30
+Kada se na tehničkom pregledu posumnja u tačnost podataka upisanih u saobraćajnu dozvolu i ti podaci ne postoje u bazi
+podataka, odnosno, kada se utvrdi neslaganje podataka za vozilo koji su upisani u saobraćajnu dozvolu sa podacima iz baze
+podataka, tehnički pregled će se završiti u tom trenutku radi utvrđivanja stvarnih tehničkih karakteristika vozila.
+Za vozila iz prethodnog stava mora se izdati Izveštaj o utvrđenom stanju vozila iz člana 41. stav 3. ovog pravilnika u kojem se
+u napomeni unosi konstatacija da mora biti izvršeno utvrđivanje tačnih podataka o vozilu od strane Agencije ili druge stručne
+organizacije koju odredi Agencija, a evidentiranje podataka u propisanim evidencijama se vrši na način određen članom 29.
+stav 8. ovog pravilnika.
+Član 31
+
+--- strana 13 ---
+Tehnički pregled vozila obuhvata identifikaciju vozila, utvrđivanje tehničkih karakteristika vozila, pregled svih uređaja i
+opreme na vozilu, utvrđivanje ispunjenosti propisanih uslova i tehničkih normativa za učešće u saobraćaju na putu, unos i
+overu podataka u propisane evidencije, sačinjavanje i overu propisanih dokumenata.
+Identifikacija vozila je prva radna operacija koja obuhvata utvrđivanje registarske oznake (ukoliko vozilo poseduje ovu
+oznaku), identifikacione oznake, oznake motora, vrste, podvrste, oblika karoserije, marke, tipa, varijante, verzije,
+komercijalne oznake (modela) vozila, NDM, godine proizvodnje i godine prve registracije u Republici Srbiji.
+Ukoliko se pri identifikaciji vozila utvrdi da ne postoji identifikaciona oznaka vozila ili oznaka motora, odnosno ukoliko su iste
+oštećene ili je vršena zamena dela na kome je postavljena identifikaciona oznaka vozila ili oznaka motora, tehnički pregled
+vozila će se u tom trenutku prekinuti. Obaveštenje o postojanju sumnje u originalnost identifikacione oznake vozila ili oznake
+motora, dostavlja se neposredno nakon završenog tehničkog pregleda teritorijalno nadležnoj organizacionoj jedinici
+Ministarstva putem elektronske pošte, telefaksa, telefona ili neposredno. Evidentiranje navedenih slučajeva se vrši na način
+određen članom 29. stav 8. ovog pravilnika.
+Član 32
+Tehnički pregled vozila vrši se u celini bez obzira da li su tokom tehničkog pregleda utvrđene neispravnosti uređaja i opreme
+vozila, osim u slučajevima predviđenim ovim pravilnikom.
+Član 32a
+Tehnički pregled teretnog odnosno priključnog vozila, namenjenih isključivo za prevoz vozila (tzv. auto voz), može se vršiti i
+bez razdvajanja spojenih vozila.
+Član 33
+Pri ponovnom tehničkom pregledu vozila koje je pri redovnom ili vanrednom tehničkom pregledu ocenjeno kao neispravno,
+može se izvršiti samo tehnički pregled uređaja i opreme čija je neispravnost utvrđena.
+Pri ponovnom tehničkom pregledu vozila kontrolori će izvršiti tehnički pregled vozila u celini, kada posumnjaju da je došlo do
+promene tehničkog stanja uređaja i opreme vozila koji su ocenjeni kao ispravni na tehničkom pregledu izvršenom u celini.
+Ponovni tehnički pregled vozila mora biti izvršen u roku koji nije duži od sedam radnih dana od dana vršenja tehničkog
+pregleda vozila u celini. U napomenu propisanih evidencija unosi se datum i ID broj redovnog ili vanrednog tehničkom
+pregledu na kojem je vozilo ocenjeno kao neispravno.
+Ponovni tehnički pregled vozila vrši isto ovlašćeno privredno društvo koje je vozilo ocenilo kao neispravno.
+Ukoliko se vozilo ne podvrgne ponovnom tehničkom pregledu u propisanom roku, tehnički pregled vozila se mora izvršiti u
+celini.
+Član 34
+Tehnički pregled vozila mora obuhvatiti pregled:
+1) uređaja za upravljanje;
+2) uređaja za zaustavljanje;
+3) svetlosnih i svetlosno-signalnih uređaja;
+4) uređaja koji omogućavaju normalnu vidljivost;
+5) uređaja za davanje zvučnih znakova;
+6) uređaja za kontrolu i davanje znakova;
+7) uređaja za odvođenje i regulisanje izduvnih gasova;
+8) uređaja za spajanje vučnog i priključnog vozila;
+9) uređaja za kretanje vozila unazad;
+10) uređaja za oslanjanje;
+11) uređaja za kretanje;
+12) elektro-uređaja i instalacija;
+13) pogonskog uređaja - motora;
+14) uređaja za prenos snage - prenosnog mehanizma;
+15) delova vozila od posebnog značaja za bezbednost saobraćaja;
+16) opreme vozila.
+
+--- strana 14 ---
+Pri vršenju tehničkog pregleda vozila utvrđuju se ispravnost uređaja i opreme iz stava 1. ovog člana i konstatuju njihove
+konkretne neispravnosti. Za vozilo se overava tehnička ispravnost ako ima sve propisane uređaje i opremu i ako zadovoljava
+sve tehničke uslove i normative za uređaje i opremu.
+Moguće neispravnosti uređaja i opreme na vozilu, kodovi neispravnosti, stepeni neispravnosti i osnove za njihovo
+utvrđivanje, koje se unose u propisane evidencije, date su u Prilogu 1. koji je odštampan uz ovaj pravilnik i čini njegov
+sastavni deo.
+Član 35
+Na zahtev stranke privredno društvo može izvršiti utvrđivanje tehničkih karakteristika vozila navedenih u saobraćajnoj
+dozvoli, koje su promenjene, pri čemu nije potrebno merenje i ispitivanje vozila (npr: promena boje vozila, ugradnja motora
+istog tipa). U tom slučaju sačinjava se zapisnik iz člana 40. stav 1. tačka 1) ovog pravilnika, a stranki se izdaje Registracioni
+list čiji se ispis vrši sa precrtanim rečima koje se odnose na tehničku ispravnost vozila.
+Evidentiranje podataka u propisanim evidencijama se vrši na način određen članom 29. stav 8. ovog pravilnika.
+Član 36
+Kontrolori tehničke preglede vozila obavljaju nezavisno, u skladu sa propisima, tehnologijom vršenja tehničkog pregleda
+vozila, bez uticaja stranke, nadređenoga ili drugog lica.
+Tehnički pregled vozila vrše dva kontrolora. Kontrolor ne može istovremeno vršiti tehnički pregled dva ili više vozila.
+Privredno društvo mora obezbediti da se tehnički pregled vozila može obaviti tokom celog radnog vremena, uz prisustvo
+kontrolora koji ima vozačku dozvolu za upravljanje vozilima za koje je privredno društvo ovlašćeno da vrši tehnički pregled
+vozila.
+Vozilom od mesta za čekanje do mesta na kome stranka preuzima vozilo upravlja kontrolor, koji ima vozačku dozvolu za
+upravljanjem vozilom čiji tehnički pregled vrši.
+Kada vrše tehnički pregled vozila kontrolori moraju koristiti radna odela kod kojih je na leđnom delu ispisan naziv privrednog
+društva. Na prednjoj strani odela postavlja se identifikaciona pločica koja sadrži ime i prezime kontrolora.
+Ako se ne poštuje zabrana o zadržavanju na tehnološkoj liniji, kontrolori ne mogu otpočeti, odnosno vršiti tehnički pregled
+vozila dok lica kojima nije dozvoljen pristup ne napuste tehnološku liniju.
+Član 37
+Ceo tok vršenja tehničkog pregleda vozila mora biti snimljen video sistemom koji omogućava najmanje očitavanje
+registarskih oznaka vozila, kao i uvid u sve radne operacije koje se izvode tokom vršenja tehničkog pregleda vozila, osim
+radnih operacija koje se izvode iz kanala, u vozilu i motornom prostoru. Snimak toka vršenja tehničkog pregleda vozila mora
+imati prikaz realnog vremena i datuma vršenja tehničkog pregleda vozila.
+Kada dođe do prestanka rada video sistema, tehnički pregled vozila se ne može vršiti.
+Izuzetno od stava 1. ovog člana, ne snima se tok vršenja tehničkog pregleda vozila Ministarstva, ministarstva nadležnog za
+poslove odbrane ili Bezbednosno-informativne agencije.
+Član 38
+Tehnički pregled vozila vrši se prema tehnologiji vršenja tehničkog pregleda na tehnološkoj liniji, koju određuje privredno
+društvo, za koju se sačinjava elaborat koji sadrži najmanje:
+1) položaj objekta, granica tehnološke linije, prostora za čekanje i mesta na kome stranka preuzima vozilo;
+2) raspored radnih mesta za vršenje tehničkog pregleda vozila;
+3) redosled radnih operacija na radnim mestima.
+Minimalna vremena za vršenje tehničkog pregleda vozila su:
+1) 15 min. - za mopede, motocikle, tricikle, četvorocikle, motokultivatore, radne mašine, priključna vozila za traktor, priključna
+vozila sa inercionom komandom uređaja za zaustavljanje i priključna vozila koja su konstruktivno izvedena bez uređaja za
+zaustavljanje;
+2) 20 min. - za traktore i vučno vozilo turističkog voza;
+3) 25 min. - za vozila čija NDM ne prelazi 3,5 t, osim vozila iz tač. 1) i 2) ovog stava;
+4) 30 min. - za vozila čija NDM prelazi 3,5 t sa hidrauličnim prenosnim mehanizmom uređaja za zaustavljanje;
+5) 40 min. - za vozila čija NDM prelazi 3,5 t sa pneumatičkim, odnosno hidro-pneumatičkim, prenosnim mehanizmom uređaja
+za zaustavljanje.
+Kontrolori ne mogu započeti vršenje tehničkog pregleda narednog vozila pre isteka minimalnog vremena potrebnog za
+vršenje tehničkog pregleda prethodnog vozila, osim u slučaju kada tehnički pregled prethodnog vozila nije izvršen u celini.
+
+--- strana 15 ---
+Na tehnološkoj liniji može se istovremeno vršiti tehnički pregled dva ili više vozila, osim na neprolaznoj tehnološkoj liniji, u
+skladu sa tehnologijom vršenja tehničkog pregleda vozila.
+Član 39
+ID broj se sastoji iz četrnaest brojčanih oznaka.
+Prvih šest mesta u ID broju predstavljaju kod privrednog društva koji je određen u rešenju o ovlašćenju.
+Sedmo i osmo mesto označavaju godinu vršenja tehničkog pregleda vozila.
+Deveto mesto označava vrstu tehničkih pregleda vozila. Vrste tehničkih pregleda su redovni godišnji (broj 1), redovni
+šestomesečni (broj 2), kontrolni (broj 3) i vanredni (broj 4), odnosno utvrđivanje tehničkih karakteristika vozila (broj 5).
+Poslednjih pet mesta u ID broju označavaju redni broj izvršenog tehničkog pregleda, odnosno utvrđivanja da nisu ispunjeni
+uslovi za vršenje tehničkog pregleda vozila, tokom jedne kalendarske godine.
+IV EVIDENCIJE KOJE VODI I DOKUMENTA KOJA IZDAJE PRIVREDNO DRUŠTVO
+Član 40
+Evidencija o tehničkim pregledima vozila, kao i o vozilima koja nisu ispunila uslove za vršenje tehničkog pregleda, sastoji se
+od:
+1) zapisnika o vršenju tehničkog pregleda vozila (u daljem tekstu: zapisnik);
+2) registra pregledanih vozila (u daljem tekstu: registar);
+3) snimka toka vršenja tehničkog pregleda vozila u objektu.
+Zapisnike potpisuju kontrolori svojeručno, pre izdavanja i overe propisanih dokumenata, odnosno Registracionog lista.
+Sastavni delovi zapisnika su:
+1) ispis svih izmerenih veličina uređajima iz čl. 21. i 22. ovog pravilnika, koji moraju da imaju mogućnost prikaza i ispisa
+izmerenih vrednosti;
+2) kopija potvrde o saobraznosti - za nova vozila koja se prvi put registruju i vozila za koja stranka poseduje potvrdu o
+saobraznosti;
+3) kopija dokumentacije, odnosno fotografije, na osnovu koje su promenjene tehničke karakteristike vozila;
+4) kopija uverenja o ispravnosti tahografa, odnosno zapisnika o pregledu analognog tahografa ili kalibraciji digitalnog
+tahografa kada na vozilu ne postoje registarske tablice;
+5) fotografije u boji vozila čiji tehnički pregled je vršen na poligonu;
+6) fotografija uverenja o ispitivanju vozila ili ispis iz baze podataka.
+Sastavni delovi zapisnika (osim ispisa izmerenih vrednosti) sačinjavaju se u pisanom ili elektronskom obliku, koji u tom
+slučaju moraju biti organizovani prema datumima vršenja tehničkog pregleda i prema ID broju i moraju imati sigurnosnu
+kopiju koja se čuva na medijumu nezavisnom od računara.
+Sadržaj i izgled Zapisnika o vršenju tehničkog pregleda vozila (Obrazac 3 - formata A4), odštampan je uz ovaj pravilnik i čini
+njegov sastavni deo. Podaci koji ne mogu stati u rubrike propisanog obrasca zapisnika upisuju se u drugi obrazac na kome
+se upisuje isti identifikacioni broj i koje potpisuju kontrolori koji su izvršili tehnički pregled vozila.
+Privredna društva zapisnike čuvaju dve godine, hronološki složene po identifikacionim brojevima.
+Registar se vodi u centralnoj bazi podataka u elektronskom obliku, a podatke preko centralnog računara unose kontrolori.
+Registar u centralnoj bazi čuva se deset godina.
+Privredno društvo mora imati sigurnosnu kopiju video zapisa vršenja tehničkog pregleda, koja se čuva na medijumu
+nezavisnom od radne memorije uređaja za snimanje, za period od jedne godine od dana kada je video zapis sačinjen.
+Sigurnosna kopija video zapisa tehničkih pregleda koji su sprovedeni u toku dana mora biti sačinjena najkasnije do kraja
+narednog dana.
+Privredno društvo, na zahtev Ministarstva, dostavlja statistički izveštaj, koji predstavlja skup podataka o izvršenim tehničkim
+pregledima vozila u određenom periodu.
+Član 41
+Za tehnički ispravno vozilo sačinjava se Potvrda o tehničkoj ispravnosti vozila ili Registracioni list, koji se u pisanom obliku
+izdaju stranci. Sadržaj i izgled Potvrde o tehničkoj ispravnosti vozila (Obrazac 1 - formata A4 ili A5), odštampan je uz ovaj
+pravilnik i čini njegov sastavni deo.
+
+--- strana 16 ---
+Za tehnički neispravno vozilo sačinjava se Izveštaj o utvrđenom stanju vozila, koji se u pisanom obliku izdaje stranci. Sadržaj
+i izgled Izveštaja o utvrđenom stanju vozila (Obrazac 2 - formata A4 ili A5), odštampan je uz ovaj pravilnik i čini njegov
+sastavni deo.
+Potvrda o tehničkoj ispravnosti vozila i Izveštaj o utvrđenom stanju vozila potpisuju kontrolori koji su izvršili tehnički pregled
+vozila i overavaju pečatom na kome se pored naziva privrednog društva, iz rešenja organa nadležnog za registraciju
+privrednih društava, nalazi i natpis: "TEHNIČKI PREGLED VOZILA". Ovim pečatom mogu se overavati samo navedena
+dokumenta, kao i Registracioni list.
+Dokumenta iz st. 1. i 2. ovog člana se uručuju stranci kao poslednje radnje tehničkog pregleda vozila.
+U napomenu dokumenata iz ovog člana i propisanih evidencija iz člana 40. ovog pravilnika moraju biti uneti podaci o:
+1) razlikama između podataka o vozilu utvrđenih pri tehničkom pregledu vozila i podataka iz dokumenata podnetih pri
+iskazivanju zahteva za vršenje tehničkog pregleda vozila;
+2) dimenzijama (dužina, širina i visina), NDM ili osovinskom opterećenju od sopstvene mase, koje su veće od propisanih i
+zbog kojih vozilo treba da ima registarske tablice crvene boje;
+3) identifikacionoj (VIN) oznaci tovarnog dela motokultivatora;
+4) postojanju duplih komandi na vozilu za osposobljavanje kandidata za vozače;
+5) razlozima zašto provera ispravnosti nekog od uređaja na vozilu nije mogla da se izvrši u objektu i na poligonu (ako postoji
+mogućnost dokumentovati fotografijom).
+Član 42
+Pri vršenju tehničkog pregleda vozila na poligonu sačinjavaju se dve fotografije u boji.
+Na jednoj fotografiji motornog vozila vidljiva je cela prednja strana vozila i kontrolor, pri čemu je čitljiva registarska oznaka
+vozila i datum i vreme početka vršenja tehničkog pregleda. Na jednoj fotografiji priključnog vozila mora biti vidljiva prednja
+strana vučnog vozila i kontrolor.
+Na drugoj fotografiji motornog i priključnog vozila mora biti vidljiva najmanje cela zadnja strana vozila, pri čemu je čitljiva
+njegova registarska oznaka.
+Izuzetno od stava 1. ovog člana, za motorno vozilo sačinjava se i treća fotografija na kojoj mora biti vidljiv odometar
+(putomer) i broj pređenih kilometara odnosno broj radnih sati.
+Vreme i datum na fotografijama moraju da budu u skladu sa vremenom vršenja tehničkog pregleda vozila.
+Odredbe ovog člana ne primenjuju se na vozila Ministarstva, ministarstva nadležnog za poslove odbrane ili Bezbednosno-
+informativne agencije.
+V PRELAZNE I ZAVRŠNE ODREDBE
+Član 43
+Privredno društvo koje vrši tehnički pregled vozila na osnovu ovlašćenja izdatog po zahtevu podnetom do početka primene
+ovog pravilnika (u daljem tekstu: privredno društvo sa starim ovlašćenjem), nastavlja rad u skladu sa rešenjem o ovlašćenju i
+prema propisima koja su se do dana početka primene ovog pravilnika primenjivali na uslove za stručni kadar, objekat,
+uređaje i opremu koji se koriste u objektu i van objekta, a najduže do isteka roka propisanog članom 351. stav 1. Zakona o
+bezbednosti saobraćaja na putevima.
+Privredno društvo koje podnese zahtev za dobijanje ovlašćenja za vršenje tehničkog pregleda nakon početka primene ovog
+pravilnika, mora ispuniti sve uslove propisane ovim pravilnikom u pogledu objekta, uređaja i opreme, osim uslova iz člana:
+1) 19. ovog pravilnika, koje mora obezbediti i koristiti u roku od 180 dana od dana kada Agencija obezbedi program koji
+omogućava dostavu propisanih podataka;
+2) 21. stav 1. tačka 1) podtačka (3) alineje peta i deseta i tačka 8) ovog pravilnika, koje mora obezbediti i koristiti u roku od tri
+godine od dana početka primene ovog pravilnika;
+3) 22. stav 1. tač. 1), 6) i 7) ovog pravilnika, koje mora obezbediti i koristiti u roku od tri godine od dana početka primene ovog
+pravilnika;
+4) 23. stav 1. tačka 1) ovog pravilnika, koje mora obezbediti i koristiti u roku od tri godine od dana početka primene ovog
+pravilnika;
+5) 23. stav 1. tačka 3) ovog pravilnika, koje mora obezbediti i koristiti u roku od pet godine od dana početka primene ovog
+pravilnik.
+Član 44
+Odredbe člana 24. ovog pravilnika primenjuju se prilikom utvrđivanja boje vozila koje se prvi put registruje i za vozilo kome se
+menja saobraćajna dozvola nakon početka primene ovog pravilnika.
+
+--- strana 17 ---
+Član 45
+Odredbe člana 26. ovog pravilnika, koje se odnose na uslove koje mora ispuniti kontrolor tehničkog pregleda vozila u
+pogledu posedovanja dozvole (licence), obuke za kontrolora tehničkog pregleda i polaganja stručnog ispita, ne primenjuju se
+na privredno društvo koje podnese zahtev za dobijanje ovlašćenja za vršenje tehničkog pregleda nakon početka primene
+ovog pravilnika, do isteka jedne godine od kada Agencija uspostavi uslove za funkcionisanje i obavljanje poslova koji se
+odnose na sprovođenje stručnog ispita i organizaciju seminara unapređenja znanja za kontrolora tehničkog pregleda.
+Član 46
+Izuzetno od odredbe člana 27. stav 1. tač. 5) i 6) ovog pravilnika, privredno društvo sa starim ovlašćenjem ne mora imati
+tehničku dokumentaciju i elaborat tehnologije vršenja tehničkog pregleda vozila.
+Izuzetno od odredbe člana 27. stav 1. tačka 4) ovog pravilnika, privredno društvo ne mora imati stručnu literaturu, do isteka
+jedne godine od kada Agencija uspostavi uslove za funkcionisanje i obavljanje poslova koji se odnose na sprovođenje
+stručnog ispita i organizaciju seminara unapređenja znanja za kontrolora tehničkog pregleda.
+Član 47
+Izuzetno od člana 34. stav 3. ovog pravilnika:
+1) do ispunjavanja uslova iz člana 19. ovog pravilnika, u zapisniku se ne unose kodovi neispravnosti;
+2) do dana pristupanja Republike Srbije Evropskoj Uniji, u izveštaju o utvrđenom stanju vozila i zapisniku se ne upisuju
+stepeni neispravnosti uređaja koji su neispravni.
+Član 48
+Izuzetno od člana 36. stav 3. ovog pravilnika, najkasnije do isteka roka od tri godine od dana početka primene ovog
+pravilnika, u objektima privrednih društava sa starim ovlašćenjem vozilom može upravljati stranka.
+Član 49
+Izuzetno od člana 37. i člana 40. stav 1. tačka 3) i stava 9. ovog pravilnika, privredno društvo sa starim ovlašćenjem umesto
+video zapisa sačinjava i vodi evidenciju fotografija u boji vozila čiji se tehnički pregled vrši u objektu (koje su sastavni deo
+zapisnika). Sačinjavaju se dve fotografije dok se vozilo nalazi u granicama tehnološke linije.
+Na jednoj fotografiji motornog vozila vidljiva je cela prednja strana vozila i kontrolor, pri čemu je čitljiva registarska oznaka
+vozila i datum i vreme početka vršenja tehničkog pregleda. Na jednoj fotografiji priključnog vozila mora biti vidljiva prednja
+strana vučnog vozila i kontrolor.
+Na drugoj fotografiji motornog i priključnog vozila mora biti vidljiva najmanje cela zadnja strana vozila, pri čemu je čitljiva
+njegova registarska oznaka.
+Izuzetno od stava 1. ovog člana, za motorno vozilo sačinjavaju se još dve fotografije na kojima su vidljive bočne strane
+vozila, kao i jedna fotografija na kojoj mora biti vidljiv odometar (putomer) i broj pređenih kilometara odnosno broj radnih sati.
+U slučaju da su u elektronskom obliku, fotografije se organizuju prema datumima vršenja tehničkog pregleda i prema ID
+broju, i moraju imati sigurnosnu kopiju koja se čuva na medijumu nezavisnom od računara.
+Evidencija fotografija čuva se dve godine.
+Odredbe ovog člana primenjuju se i na privredno društvo koje je ovlašćeno za vršenje tehničkog pregleda vozila nakon
+početka primene ovog pravilnika, do ispunjavanja uslova iz člana 23. stav 1. tačka 1) ovog pravilnika.
+Odredbe ovog člana ne primenjuju se na vozila Ministarstva, ministarstva nadležnog za poslove odbrane ili Bezbednosno-
+informativne agencije.
+Član 50
+Izuzetno od člana 40. stav 3. tačka 1) ovog pravilnika, privredno društvo sa starim ovlašćenjem sačinjava zapisnik čiji
+sastavni deo umesto ispisa svih izmerenih veličina uređajima iz čl. 21. i 22. ovog pravilnika, moraju biti: grafički ispis sila
+kočenja, odnosno numerički ispis vrednosti sila kočenja i kočnog koeficijenta (ako uređaj ima mogućnost i takve vrste ispisa),
+ispis podataka o izvršenom merenju usporenja (ako uređaj ima mogućnost takve vrste ispisa), ispis rezultata merenja
+sastava izduvnih gasova motora (ukoliko je uređaj kojim se vrši ovo merenje proizveden tako da omogućava ispis izmerenih
+vrednosti). Podaci koji se nalaze u dokumentaciji koja je sastavni deo zapisnika ne moraju se unositi u propisane rubrike
+zapisnika.
+Izuzetno od člana 40. stav 7. ovog pravilnika, privredno društvo sa starim ovlašćenjem registar vodi u vidu dva registra i to
+jedan za tehničke preglede izvršene u objektu i drugi za tehničke preglede izvršene na poligonu. Navedeni registri se vode u
+obliku knjige sa čvrstim povezom i sa numerisanim stranama, a sadržaj i izgled listova Registra pregledanih vozila (Obrazac
+4 - formata A3), odštampani su uz ovaj pravilnik i čine njegov sastavni deo.
+Propisane evidencije iz stava 1. ovog člana čuvaju se roku od dve godine od dana vršenja tehničkog pregleda, a propisane
+evidencije iz stava 2. ovog člana čuvaju se pet godina.
+
+--- strana 18 ---
+Odredbe ovog člana primenjuju se i na privredno društvo koje je ovlašćeno za vršenje tehničkog pregleda vozila nakon
+početka primene ovog pravilnika, do ispunjavanja uslova iz člana 19. ovog pravilnika.
+Član 51
+Izuzetno od člana 39. stav 2. ovog pravilnika, Ministarstvo će odrediti kod privrednog društva sa starim ovlašćenjem koji će
+važiti do ispunjavanja uslova iz člana 19. ovog pravilnika.
+Član 52
+Postupci započeti do dana početka primene ovog pravilnika okončaće se po propisima koji su se primenjivali do dana
+početka primene ovog pravilnika.
+Član 53
+Danom početka primene ovog pravilnika prestaje da važi Pravilnik o tehničkom pregledu vozila ("Službeni glasnik SRS", broj
+23/84).
+Član 54
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije", a počinje da se
+primenjuje po isteku 60 dana od dana stupanja na snagu.
+Samostalni član Pravilnika o izmenama i dopunama
+Pravilnika o tehničkom pregledu vozila
+("Sl. glasnik RS", br. 70/2018)
+Član 6
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku Republike Srbije".
+Prilog 1 i Obrasce 1-4, koji su sastavni deo ovog pravilnika, možete pogledati OVDE
