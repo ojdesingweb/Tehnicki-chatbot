@@ -61,7 +61,7 @@ async function callLLM(systemPrompt, userPrompt) {
       },
       body: JSON.stringify({
         model: GROQ_MODEL,
-        max_tokens: 700,
+        max_tokens: 400,
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: userPrompt },
@@ -70,7 +70,9 @@ async function callLLM(systemPrompt, userPrompt) {
     });
     if (!resp.ok) {
       const errText = await resp.text().catch(() => "");
-      throw new Error(`Groq API greška ${resp.status}: ${errText.slice(0, 300)}`);
+      const err = new Error(`Groq API greška ${resp.status}: ${errText.slice(0, 300)}`);
+      if (resp.status === 429) err.isRateLimit = true;
+      throw err;
     }
     const data = await resp.json();
     return (data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content) || "";
@@ -150,13 +152,28 @@ Pravila:
 Uvek odgovori ISKLJUČIVO validnim JSON objektom, bez ikakvog teksta pre ili posle, u obliku:
 {"answer": "<odgovor klijentu na srpskom>", "confident": true ili false}`;
 
+// Groq's free tier caps tokens-per-minute (8000 TPM at time of writing), and
+// a handful of retrieved Pravilnik articles plus a long chat history can
+// easily blow past that in one single request — which looked like the bot
+// "stops answering after 2 messages" (it was really a 429 rate-limit error,
+// masked by the widget's generic offline message). Capping each context
+// chunk's length and trimming history keeps a typical request well under
+// that budget, with real Claude usage unaffected since this constant is
+// generous for its much higher token limits.
+const MAX_CHUNK_CHARS = 450;
+
+function truncate(text, maxChars) {
+  if (text.length <= maxChars) return text;
+  return text.slice(0, maxChars).trim() + "…";
+}
+
 function buildUserPrompt(message, history, contextChunks) {
   const contextText = contextChunks
-    .map((c, i) => `[Izvor ${i + 1}: ${c.title}]\n${c.text}`)
+    .map((c, i) => `[Izvor ${i + 1}: ${c.title}]\n${truncate(c.text, MAX_CHUNK_CHARS)}`)
     .join("\n\n---\n\n");
 
   const historyText = (history || [])
-    .slice(-6)
+    .slice(-4)
     .map((h) => `${h.role === "user" ? "Klijent" : "Best Asistent"}: ${h.content}`)
     .join("\n");
 
@@ -188,7 +205,7 @@ app.post("/api/chat", async (req, res) => {
   }
 
   try {
-    const contextChunks = index.search(message, 6);
+    const contextChunks = index.search(message, 4);
 
     let parsed;
     if (MOCK_MODE) {
@@ -227,6 +244,13 @@ app.post("/api/chat", async (req, res) => {
     });
   } catch (err) {
     console.error("Chat error:", err);
+    if (err.isRateLimit) {
+      // Groq's free tier has a per-minute token budget; this is the normal
+      // way it signals "too much, too fast", not a broken server.
+      return res.status(429).json({
+        error: "Trenutno je previše upita u kratkom vremenu (besplatni AI limit). Pokušajte ponovo za par sekundi.",
+      });
+    }
     return res.status(500).json({ error: "Greška na serveru, pokušajte ponovo." });
   }
 });
