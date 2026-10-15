@@ -1,0 +1,17 @@
+{
+  "name": "autobest-bot",
+  "version": "1.0.0",
+  "description": "Chat bot backend for Autocentar Best (tehnicki pregled, registracija, osiguranje)",
+  "main": "server/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "build-kb": "python3 -I server/kb/build_chunks.py"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
