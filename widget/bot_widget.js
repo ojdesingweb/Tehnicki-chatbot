@@ -246,7 +246,11 @@
           typingWrap.remove();
 
           if (!result.ok || !result.data || typeof result.data.reply !== "string") {
-            addMsg(feed, "bot", textToHtml(OFFLINE_MSG));
+            // Show the backend's own message when it sent one (e.g. a clear
+            // "too many requests, try again shortly") instead of always the
+            // generic offline message, which was masking what really happened.
+            var serverMsg = result.data && typeof result.data.error === "string" ? result.data.error : null;
+            addMsg(feed, "bot", textToHtml(serverMsg || OFFLINE_MSG));
             return;
           }
           var reply = result.data.reply;
